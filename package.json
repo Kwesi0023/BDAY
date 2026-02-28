@@ -1,0 +1,25 @@
+{
+  "name": "birthday",
+  "version": "1.0.0",
+  "description": "Birthday greetings..",
+  "main": " ",
+  "scripts": {
+    "server-node": "http-server -p 5500"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kwesi0023/DEPLOY.git"
+  },
+  "keywords": [
+    "Birthday"
+  ],
+  "author": "Copyright....Ayush Sharma",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/ayusharma/birthday/issues"
+  },
+  "homepage": "https://github.com/Kwesi0023/DEPLOY#readme",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
+}
